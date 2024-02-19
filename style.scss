@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 .pryColor {
@@ -16,4 +17,7 @@
 }
 section {
   margin-top: 80px;
+}
+.buttonColor {
+  background: #1dd100 !important;
 }
